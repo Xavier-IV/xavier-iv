@@ -18,6 +18,7 @@ Since I'm working on heavy NodeJS projects, I'm excited to work on Flutter to di
 #### 2 - Mobile Application
 
 [Naelofar](https://github.com/Xavier-IV/dev.zafranudin.app.naelofar), a Flutter app I'm practicing for a product named Naelofar.
+
 [Pray Partner](https://github.com/Xavier-IV/pray-partner), an old Flutter project that I used to practice REST API ecosystem.
 
 
