@@ -1,6 +1,6 @@
 ### About Me
 
-A software engineer working on NodeJS, a Malaysian who's currently in Germany.
+A software engineer working on NodeJS, a 🇲🇾 Malaysian who's currently in 🇩🇪 Germany.
 
 You can check out [my landing page](https://zafranudin.dev/).
 
