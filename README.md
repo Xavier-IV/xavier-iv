@@ -14,6 +14,13 @@ Check out my list of projects at my landing page section, [Projects](https://zaf
 
 I failed my motorcycle license test lol.
 
+
+### 🍳 What's cooking?
+
+Oh right now I'm focusing my learning to Flutter! My latest project is to create a Todo App. Yep, it's a simple concept.
+
+Check it out if you're interested in contributing: https://github.com/Xavier-IV/dev.zafranudin.app.todo_app
+
 ### 🤔 I need help
 
 If you like to do open-source project, let's discuss to see some possible project we can work on.
