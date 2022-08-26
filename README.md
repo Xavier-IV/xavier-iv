@@ -10,15 +10,15 @@ Since I'm working on heavy NodeJS projects, I'm excited to work on Flutter to di
 
 #### 1 - Arduino
 
-[Toll System](/dev.zafranudin.arduino.toll-system), an arduino RFID system on 2 embedded system, Arduino Uno & ESP 01.
+[Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system), an arduino RFID system on 2 embedded system, Arduino Uno & ESP 01.
 
-[Hobi Elektronik](/hobi-elektronik) (EN, Electronic Hobby), is a collection of Arduino mini projects I've worked on.
+[Hobi Elektronik](https://github.com/Xavier-IV/hobi-elektronik) (EN, Electronic Hobby), is a collection of Arduino mini projects I've worked on.
 
 
 #### 2 - Mobile Application
 
-[Naelofar](/dev.zafranudin.app.naelofar), a Flutter app I'm practicing for a product named Naelofar.
-[Pray Partner](/pray-partner), an old Flutter project that I used to practice REST API ecosystem.
+[Naelofar](https://github.com/Xavier-IV/dev.zafranudin.app.naelofar), a Flutter app I'm practicing for a product named Naelofar.
+[Pray Partner](https://github.com/Xavier-IV/pray-partner), an old Flutter project that I used to practice REST API ecosystem.
 
 
 #### 3 - Website
