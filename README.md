@@ -1,4 +1,4 @@
-### About Me
+### 👋 About Me
 
 A software engineer working on NodeJS, a 🇲🇾 Malaysian who's currently in 🇩🇪 Germany.
 
@@ -6,28 +6,9 @@ You can check out [my landing page](https://zafranudin.dev/).
 
 Since I'm working on heavy NodeJS projects, I'm excited to work on Flutter to diversify my knowledge.
 
-### Projects
+### 🎨 Projects
 
-#### 1 - Arduino
-
-[Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system), an arduino RFID system on 2 embedded system, Arduino Uno & ESP 01.
-
-[Hobi Elektronik](https://github.com/Xavier-IV/hobi-elektronik) (EN, Electronic Hobby), is a collection of Arduino mini projects I've worked on.
-
-
-#### 2 - Mobile Application
-
-[Naelofar](https://github.com/Xavier-IV/dev.zafranudin.app.naelofar), a Flutter app I'm practicing for a product named Naelofar.
-
-[Pray Partner](https://github.com/Xavier-IV/pray-partner), an old Flutter project that I used to practice REST API ecosystem.
-
-
-#### 3 - Website
-
-[zafranudin.dev](https://zafranudin.dev), a website made in NextJS, and deployed to AWS with Terraform. Proud of it!
-
-[matrixpacific.com.my](https://matrixpacific.com.my), a product for my client that is still active since 2016! Made with Ruby on Rails and deployed to their prefered cloud hosting provider.
-
+Check out my list of projects at my landing page section, [Projects](https://zafranudin.dev/projects)!
 
 ### ⚡ Fun fact
 
