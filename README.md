@@ -24,6 +24,10 @@ Since I'm working on heavy NodeJS projects, I'm excited to work on Flutter to di
 
 #### 3 - Website
 
+[zafranudin.dev](https://zafranudin.dev), a website made in NextJS, and deployed to AWS with Terraform. Proud of it!
+
+[matrixpacific.com.my](https://matrixpacific.com.my), a product for my client that is still active since 2016! Made with Ruby on Rails and deployed to their prefered cloud hosting provider.
+
 
 ### ⚡ Fun fact
 
