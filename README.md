@@ -12,14 +12,16 @@ Check out my list of projects at my landing page section, [Projects](https://zaf
 
 ### ⚡ Fun fact
 
-I failed my motorcycle license test lol.
+My first memorable program, is a Rails chat system that I develop. The fun part is, my friend can communicate with me in his own laptop's browser!
+
+Despite its a simple port forwarding IP, the fact that I can see his chat when I refresh my page, is awesome.
+
+Been loving developing ever since.
 
 
 ### 🍳 What's cooking?
 
-Oh right now I'm focusing my learning to Flutter! My latest project is to create a Todo App. Yep, it's a simple concept.
-
-Check it out if you're interested in contributing: https://github.com/Xavier-IV/dev.zafranudin.app.todo_app
+Delving into Rails for some side project ideas I've been having lately!
 
 ### 🤔 I need help
 
