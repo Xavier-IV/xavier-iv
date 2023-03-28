@@ -6,11 +6,13 @@
   </a>
 </p>
 
-A software engineer working on NodeJS, a 🇲🇾 Malaysian who's currently in 🇩🇪 Germany.
+A software engineer working on NodeJS, 🇲🇾 Malaysian in 🇩🇪 Germany.
 
 You can check out [my landing page](https://zafranudin.dev/).
 
 Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutter to diversify my knowledge.
+
+Current Employment - Klarna
 
 ### 🎨 Projects
 
