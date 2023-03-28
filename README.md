@@ -1,6 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,rails,typescript,javascript)](https://skillicons.dev)
 
-https://skillicons.dev/icons?i=nodejs,rails,typescript,javascript
 ### 👋 About Me
 
 A software engineer working on NodeJS, a 🇲🇾 Malaysian who's currently in 🇩🇪 Germany.
