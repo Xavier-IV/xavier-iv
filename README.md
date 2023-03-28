@@ -21,7 +21,7 @@ Been loving developing ever since.
 
 ### 🍳 What's cooking?
 
-Delving into Rails for some side project ideas I've been having lately!
+Delving into Rails 💎🔴 for some side project ideas I've been having lately!
 
 ### 🤔 I need help
 
