@@ -10,7 +10,7 @@ A software engineer working on NodeJS, a 🇲🇾 Malaysian who's currently in �
 
 You can check out [my landing page](https://zafranudin.dev/).
 
-Since I'm working on heavy NodeJS projects, I'm excited to work on Flutter to diversify my knowledge.
+Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutter to diversify my knowledge.
 
 ### 🎨 Projects
 
@@ -27,7 +27,7 @@ Been loving developing ever since.
 
 ### 🍳 What's cooking?
 
-Delving into Rails 💎🔴 for some side project ideas I've been having lately!
+ Delving into Rails <img src="https://skillicons.dev/icons?i=rails" width="20px" height="20px"/> for some side project ideas I've been having lately!
 
 ### 🤔 I need help
 
