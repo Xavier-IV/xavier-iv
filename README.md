@@ -31,9 +31,9 @@ Been loving developing ever since.
 
  Delving into Rails <img src="https://skillicons.dev/icons?i=rails" width="20px" height="20px"/> for some side project ideas I've been having lately!
 
-### 🤔 I need help
+### 🤔 Let's collaborate?
 
-If you like to do open-source project, let's discuss to see some possible project we can work on.
+Like to do open-source project? Let's discuss to see some possible project we can work on!
 
 <!--
 **Xavier-IV/xavier-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
