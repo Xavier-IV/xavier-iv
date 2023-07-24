@@ -12,7 +12,7 @@ You can check out [my landing page](https://zafranudin.dev/).
 
 Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutter to diversify my knowledge.
 
-Current Employment - Klarna
+Current Employment - Klarna Bank AB, Germany
 
 ### 🎨 Projects
 
