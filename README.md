@@ -14,6 +14,12 @@ Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutt
 
 Current Employment - Klarna Bank AB, Germany
 
+[![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?style=for-the-badge&logo=Klarna&logoColor=white)](https://www.klarna.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
+
+
+
+
 ### 🎨 Projects
 
 Check out my list of projects at my landing page section, [Projects](https://zafranudin.dev/projects)!
