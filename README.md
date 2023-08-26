@@ -59,3 +59,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier-IV&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,java,c%2B%2B,blade,cmake,swift,lua,arduino,c,kotlin,objective-c,vue,shell,dockerfile)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
