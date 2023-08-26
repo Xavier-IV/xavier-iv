@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
+```ruby,typescript,javascript
 ERB              2 hrs 47 mins   ████████████░░░░░░░░░░░░░   48.60 %
 Ruby             2 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.78 %
 YAML             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
