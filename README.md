@@ -61,4 +61,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,java,c%2B%2B,blade,cmake,swift,lua,arduino,c,kotlin,objective-c,vue,shell,dockerfile)
 
 <!--START_SECTION:waka-->
+
+```txt
+ERB              2 hrs 47 mins   ████████████░░░░░░░░░░░░░   48.60 %
+Ruby             2 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.78 %
+YAML             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+CSS              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Terraform        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+```
+
 <!--END_SECTION:waka-->
