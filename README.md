@@ -71,3 +71,5 @@ ActionScript 3   3 mins          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/346ac2ed-57bd-4954-bb4e-82ae89fd14b3.svg)](https://wakatime.com/@346ac2ed-57bd-4954-bb4e-82ae89fd14b3)
