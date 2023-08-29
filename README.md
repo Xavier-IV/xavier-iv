@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A software engineer working on NodeJS, 🇲🇾 Malaysian in 🇩🇪 Germany.
+A software engineer working on NodeJS and Ruby, 🇲🇾 Malaysian in 🇩🇪 Germany.
 
 You can check out [my landing page](https://zafranudin.dev/).
 
@@ -35,7 +35,7 @@ Been loving developing ever since.
 
 ### 🍳 What's cooking?
 
- Delving into Rails <img src="https://skillicons.dev/icons?i=rails" width="20px" height="20px"/> for some side project ideas I've been having lately!
+Delving into Rails <img src="https://skillicons.dev/icons?i=rails" width="20px" height="20px"/> for some side project ideas I've been having lately!
 
 ### 🤔 Let's collaborate?
 
