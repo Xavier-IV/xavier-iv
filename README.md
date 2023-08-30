@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier-IV&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=Xavier-IV&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,java,c%2B%2B,blade,cmake,swift,lua,arduino,c,kotlin,objective-c,vue,shell,dockerfile)
+![Top Langs](https://github-readme-stats-x6s6.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,java,c%2B%2B,blade,cmake,swift,lua,arduino,c,kotlin,objective-c,vue,shell,dockerfile)
 
 <!--START_SECTION:waka-->
 
