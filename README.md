@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                13 hrs 8 mins   ██████████████████░░░░░░░   71.81 %
-Other               1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-CSS                 1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-YAML                52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Astro               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Ruby                13 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.09 %
+Terraform           3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Astro               1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+CSS                 1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other               1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
