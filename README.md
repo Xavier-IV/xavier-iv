@@ -22,7 +22,18 @@ Current Employment - Klarna Bank AB, Germany
 
 ### 🎨 Projects
 
-Check out my list of projects at my landing page section, [Projects](https://zafranudin.dev/projects)!
+[Landing Page](https://zafranudin.dev/) - My own landing page!
+
+[Tail Draft](https://github.com/Xavier-IV/tail_draft) - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
+
+[E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
+
+[Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
+
+#### ✨ Public Contributions
+_I'm also actively contributing to other open-source project, help them out too!_
+
+- [CariSurau.com](https://github.com/Xavier-IV/ratemysurau) by Farhan Helmy
 
 ### ⚡ Fun fact
 
