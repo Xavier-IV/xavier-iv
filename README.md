@@ -30,6 +30,8 @@ Current Employment - Klarna Bank AB, Germany
 
 [Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
 
+[Mini SEO](https://github.com/Xavier-IV/mini-seo) - Angular project to generate SEO open graph meta for Facebook, Twitter, LinkedIn.
+
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
 
