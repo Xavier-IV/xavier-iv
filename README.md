@@ -24,7 +24,7 @@ Current Employment - Klarna Bank AB, Germany
 
 [Landing Page](https://zafranudin.dev/) - My own landing page!
 
-[Tail Draft](https://github.com/Xavier-IV/tail_draft) - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
+[Windclutter](https://github.com/Xavier-IV/windclutter) [![version](https://badge.fury.io/rb/windclutter.svg)](https://badge.fury.io/rb/windclutter) - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
 
 [E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
 
