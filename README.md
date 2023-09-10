@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             8 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.28 %
-HTML             3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-TypeScript       3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Markdown         2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Astro            2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Ruby             12 hrs 7 mins   ██████████████▒░░░░░░░░░░   57.07 %
+Markdown         2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+CSS              1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Astro            1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Python           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka-->
