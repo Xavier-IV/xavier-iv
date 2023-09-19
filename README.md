@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             10 hrs 6 mins   ██████████████░░░░░░░░░░░   55.40 %
-Ruby             3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 %
-YAML             1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-ActionScript     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Dart             10 hrs 6 mins   ███████████████░░░░░░░░░░   60.51 %
+Ruby             2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+YAML             1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+ActionScript     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
