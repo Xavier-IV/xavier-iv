@@ -76,11 +76,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             2 hrs 56 mins   ████████████▓░░░░░░░░░░░░   50.77 %
-YAML             50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-HCL              34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Markdown         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Text             23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Ruby        6 mins          ██████████████▓░░░░░░░░░░   59.04 %
+Terraform   3 mins          ████████░░░░░░░░░░░░░░░░░   32.20 %
+HCL         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
 
 <!--END_SECTION:waka-->
