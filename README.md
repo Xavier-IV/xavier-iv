@@ -76,9 +76,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby        6 mins          ██████████████▓░░░░░░░░░░   59.04 %
-Terraform   3 mins          ████████░░░░░░░░░░░░░░░░░   32.20 %
-HCL         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Ruby   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
