@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                35 hrs 32 mins  █████████████████████▒░░░   84.82 %
-CSS                 1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-YAML                1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Terraform           1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-HCL                 52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Ruby                27 hrs 5 mins   █████████████████████░░░░   84.49 %
+CSS                 1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Terraform           56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+HCL                 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
