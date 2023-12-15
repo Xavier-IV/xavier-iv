@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             23 mins         ███████████████░░░░░░░░░░   59.58 %
-Markdown         6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-YAML             6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Ruby             23 mins         ███████████████░░░░░░░░░░   59.64 %
+Markdown         6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+YAML             6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
 GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 HCL              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
