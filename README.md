@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             12 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
-Markdown         6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.54 %
-YAML             6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-HCL              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Ruby             41 mins         ██████████████████░░░░░░░   71.74 %
+Markdown         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+YAML             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+HCL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
