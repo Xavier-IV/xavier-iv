@@ -76,7 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HCL            14 mins         █████████████████████░░░░   84.61 %
+Shell Script   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+TypeScript     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Terraform      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Ruby           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
