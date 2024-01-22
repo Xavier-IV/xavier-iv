@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HCL            14 mins         █████████████████████░░░░   84.61 %
-Shell Script   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-TypeScript     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Terraform      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Ruby           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Ruby             43 mins         ████████████████░░░░░░░░░   64.45 %
+GitIgnore file   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Bash             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+YAML             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Text             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
