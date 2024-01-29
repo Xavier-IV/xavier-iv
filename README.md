@@ -76,11 +76,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             43 mins         ████████████████░░░░░░░░░   64.45 %
-GitIgnore file   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Bash             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-YAML             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Text             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
