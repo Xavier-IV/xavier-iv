@@ -28,6 +28,8 @@ Current Employment - Klarna Bank AB, Germany
 
 [Windclutter](https://github.com/Xavier-IV/windclutter) <a href="https://badge.fury.io/rb/windclutter"><img src="https://badge.fury.io/rb/windclutter.svg" alt="Gem Version" height="16"></a> - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
 
+[Regeular.io](https://github.com/Xavier-IV/regeular_io) Project made with Ruby on Rails, where user can scan QR to keep track of their customers and give rewards accordingly.
+
 [E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
 
 [Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
