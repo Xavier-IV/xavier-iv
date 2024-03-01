@@ -22,23 +22,18 @@ Current Employment - Klarna Bank AB, Germany
 
 ### 🎨 Projects
 
-[Landing Page](https://zafranudin.dev/) - My own landing page!
+- [Landing Page](https://zafranudin.dev/) - My own landing page!
+- [SoftwareDev Game](https://github.com/Xavier-IV/silver-ili) - A prototype game made with Godot
+- [Windclutter](https://github.com/Xavier-IV/windclutter) <a href="https://badge.fury.io/rb/windclutter"><img src="https://badge.fury.io/rb/windclutter.svg" alt="Gem Version" height="16"></a> - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
 
-[SoftwareDev Game](https://github.com/Xavier-IV/silver-ili) - A prototype game made with Godot
-
-[Windclutter](https://github.com/Xavier-IV/windclutter) <a href="https://badge.fury.io/rb/windclutter"><img src="https://badge.fury.io/rb/windclutter.svg" alt="Gem Version" height="16"></a> - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
-
-[Regeular.io Rails](https://github.com/Xavier-IV/regeular_io) Project made with Ruby on Rails, where user can scan QR to keep track of their customers and give rewards accordingly.
-
-[Regeular.io Terraform](https://github.com/Xavier-IV/regeular_io.terraform) Deployment setup and CI/CD for regeular.io
+- [Regeular.io Rails](https://github.com/Xavier-IV/regeular_io) Project made with Ruby on Rails, where user can scan QR to keep track of their customers and give rewards accordingly.
+- [Regeular.io Terraform](https://github.com/Xavier-IV/regeular_io.terraform) Deployment setup and CI/CD for regeular.io
 
 **Some Mini-Projects**
 
-[E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
-
-[Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
-
-[Mini SEO](https://github.com/Xavier-IV/mini-seo) - Angular project to generate SEO open graph meta for Facebook, Twitter, LinkedIn.
+- [E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
+- [Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
+- [Mini SEO](https://github.com/Xavier-IV/mini-seo) - Angular project to generate SEO open graph meta for Facebook, Twitter, LinkedIn.
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
