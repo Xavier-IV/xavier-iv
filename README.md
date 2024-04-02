@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              13 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
-Markdown          8 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
-Other             4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-HTML              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-TypeScript        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Java              13 mins         ██████████▒░░░░░░░░░░░░░░   40.81 %
+Markdown          8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Other             4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+HTML              2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+TypeScript        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
