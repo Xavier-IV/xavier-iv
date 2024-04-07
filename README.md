@@ -79,11 +79,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              52 mins         ██████████████▓░░░░░░░░░░   58.37 %
-Other             20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Markdown          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-HTML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Java Properties   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java              39 mins         █████████████████░░░░░░░░   68.45 %
+Other             15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+Java Properties   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+HTML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
