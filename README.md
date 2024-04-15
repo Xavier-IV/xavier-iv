@@ -79,7 +79,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     0 secs          ██████████████▓░░░░░░░░░░   58.39 %
+TypeScript   0 secs          ██████████▒░░░░░░░░░░░░░░   41.61 %
 ```
 
 <!--END_SECTION:waka-->
