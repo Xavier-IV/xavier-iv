@@ -79,8 +79,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 mins         ████████████████████████▒   97.54 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+TypeScript   32 mins         ████████▒░░░░░░░░░░░░░░░░   33.71 %
+Terraform    29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+YAML         28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.87 %
+Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
