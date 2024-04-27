@@ -79,8 +79,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   10 mins         ███████████████████████░░   92.09 %
-Text   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+YAML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
