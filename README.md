@@ -22,19 +22,15 @@ Current Employment - Klarna Bank AB, Germany
 
 ### 🎨 Projects
 
-
-| Project                  | Live Link                             | Github                                             |
-|--------------------------|---------------------------------------|----------------------------------------------------|
-| Landing Page             | https://zafranudin.dev                | -                                                  |
-| SoftwareDev Game (Godot) | https://xavier-iv.itch.io/softwaredev | https://github.com/Xavier-IV/softwaredev-rpg       |
-| Regülar                  | -                                     | https://github.com/Xavier-IV/regeular_io           |
-| Regülar Terraform        | -                                     | https://github.com/Xavier-IV/regeular_io.terraform |
-| Windclutter (Ruby)       | $ gem install windclutter             | https://github.com/Xavier-IV/windclutter           |
-**Some Mini-Projects**
-
-- [E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
-- [Arduino Toll System](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) - C++ implementation for an Arduino Toll Project
-- [Mini SEO](https://github.com/Xavier-IV/mini-seo) - Angular project to generate SEO open graph meta for Facebook, Twitter, LinkedIn.
+| Project                   | Live Link                                         | Github                                                          |
+|---------------------------|---------------------------------------------------|-----------------------------------------------------------------|
+| Landing Page              | https://zafranudin.dev                            | -                                                               |
+| SoftwareDev Game (Godot)  | https://xavier-iv.itch.io/softwaredev             | https://github.com/Xavier-IV/softwaredev-rpg                    |
+| Regülar (Rails)           | -                                                 | https://github.com/Xavier-IV/regeular_io                        |
+| Regülar Terraform (AWS)   | -                                                 | https://github.com/Xavier-IV/regeular_io.terraform              |
+| Windclutter (Ruby)        | $ gem install windclutter                         | https://github.com/Xavier-IV/windclutter                        |
+| Arduino Toll System (C++) | https://www.facebook.com/watch/?v=192834632804605 | https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system |
+| Mini SEO (Angular)        | https://mini-seo.vercel.app/                      | https://github.com/Xavier-IV/mini-seo                           |
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
