@@ -30,7 +30,7 @@ Current Employment - Klarna Bank AB, Germany
 | Regülar Terraform (AWS)   | -                                                 | [Github](https://github.com/Xavier-IV/regeular_io.terraform)              |
 | Windclutter (Ruby)        | $ gem install windclutter                         | [Github](https://github.com/Xavier-IV/windclutter)                        |
 | Arduino Toll System (C++) | [Project Video](https://www.facebook.com/watch/?v=192834632804605) | [Github](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) |
-| Mini SEO (Angular)        | {Vercel](https://mini-seo.vercel.app/)                      | [Github](https://github.com/Xavier-IV/mini-seo)                           |
+| Mini SEO (Angular)        | [Vercel](https://mini-seo.vercel.app/)                      | [Github](https://github.com/Xavier-IV/mini-seo)                           |
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
