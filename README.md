@@ -24,13 +24,13 @@ Current Employment - Klarna Bank AB, Germany
 
 | Project                   | Live Link                                         | Github                                                          |
 |---------------------------|---------------------------------------------------|-----------------------------------------------------------------|
-| Landing Page              | https://zafranudin.dev                            | -                                                               |
-| SoftwareDev Game (Godot)  | https://xavier-iv.itch.io/softwaredev             | https://github.com/Xavier-IV/softwaredev-rpg                    |
-| Regülar (Rails)           | -                                                 | https://github.com/Xavier-IV/regeular_io                        |
-| Regülar Terraform (AWS)   | -                                                 | https://github.com/Xavier-IV/regeular_io.terraform              |
-| Windclutter (Ruby)        | $ gem install windclutter                         | https://github.com/Xavier-IV/windclutter                        |
-| Arduino Toll System (C++) | https://www.facebook.com/watch/?v=192834632804605 | https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system |
-| Mini SEO (Angular)        | https://mini-seo.vercel.app/                      | https://github.com/Xavier-IV/mini-seo                           |
+| Landing Page              | [Website](https://zafranudin.dev)                            | -                                                               |
+| SoftwareDev Game (Godot)  | [Itch.io](https://xavier-iv.itch.io/softwaredev)             | [Github](https://github.com/Xavier-IV/softwaredev-rpg)                 |
+| Regülar (Rails)           | -                                                 | [Github](https://github.com/Xavier-IV/regeular_io)                        |
+| Regülar Terraform (AWS)   | -                                                 | [Github](https://github.com/Xavier-IV/regeular_io.terraform)              |
+| Windclutter (Ruby)        | $ gem install windclutter                         | [Github](https://github.com/Xavier-IV/windclutter)                        |
+| Arduino Toll System (C++) | [Project Video](https://www.facebook.com/watch/?v=192834632804605) | [Github](https://github.com/Xavier-IV/dev.zafranudin.arduino.toll-system) |
+| Mini SEO (Angular)        | {Vercel](https://mini-seo.vercel.app/)                      | [Github](https://github.com/Xavier-IV/mini-seo)                           |
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
