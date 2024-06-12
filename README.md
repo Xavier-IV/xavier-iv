@@ -22,13 +22,14 @@ Current Employment - Klarna Bank AB, Germany
 
 ### 🎨 Projects
 
-- [Landing Page](https://zafranudin.dev/) - My own landing page!
-- [SoftwareDev Game](https://github.com/Xavier-IV/silver-ili) - A prototype game made with Godot
-- [Windclutter](https://github.com/Xavier-IV/windclutter) <a href="https://badge.fury.io/rb/windclutter"><img src="https://badge.fury.io/rb/windclutter.svg" alt="Gem Version" height="16"></a> - Manage your TailwindCSS clutter in a breeze (ongoing open-source project)
 
-- [Regeular.io Rails](https://github.com/Xavier-IV/regeular_io) Project made with Ruby on Rails, where user can scan QR to keep track of their customers and give rewards accordingly.
-- [Regeular.io Terraform](https://github.com/Xavier-IV/regeular_io.terraform) Deployment setup and CI/CD for regeular.io
-
+| Project                  | Live Link                             | Github                                             |
+|--------------------------|---------------------------------------|----------------------------------------------------|
+| Landing Page             | https://zafranudin.dev                | -                                                  |
+| SoftwareDev Game (Godot) | https://xavier-iv.itch.io/softwaredev | https://github.com/Xavier-IV/softwaredev-rpg       |
+| Regülar                  | -                                     | https://github.com/Xavier-IV/regeular_io           |
+| Regülar Terraform        | -                                     | https://github.com/Xavier-IV/regeular_io.terraform |
+| Windclutter (Ruby)       | $ gem install windclutter             | https://github.com/Xavier-IV/windclutter           |
 **Some Mini-Projects**
 
 - [E-Kinder System](https://github.com/Xavier-IV/ekindersys) - Early childhood management open source system
