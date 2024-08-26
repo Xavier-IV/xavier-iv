@@ -12,7 +12,7 @@ You can check out [my landing page](https://zafranudin.dev/).
 
 Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutter to diversify my knowledge.
 
-Current Employment - IU Internationale University Hochschule, Germany
+Current Employment - IU Internationale Hochschule, Germany
 
 [![IU](https://img.shields.io/badge/IU_University-white?style=for-the-badge&logo=IU&logoColor=white)](https://www.iu.de/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
 
