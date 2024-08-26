@@ -14,7 +14,7 @@ Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutt
 
 Current Employment - IU Internationale University Hochschule, Germany
 
-[![Klarna](https://img.shields.io/badge/IU_University-white?style=for-the-badge&logo=IU&logoColor=white)](https://www.iu.de/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
+[![IU](https://img.shields.io/badge/IU_University-white?style=for-the-badge&logo=IU&logoColor=white)](https://www.iu.de/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
 
 
 
