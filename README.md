@@ -12,10 +12,9 @@ You can check out [my landing page](https://zafranudin.dev/).
 
 Since I'm working on heavy NodeJS projects, I'm excited to work on Rails & Flutter to diversify my knowledge.
 
-Current Employment - Klarna Bank AB, Germany
+Current Employment - IU Internationale University Hochschule, Germany
 
-[![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?style=for-the-badge&logo=Klarna&logoColor=white)](https://www.klarna.com/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
+[![Klarna](https://img.shields.io/badge/IU_University-white?style=for-the-badge&logo=IU&logoColor=white)](https://www.iu.de/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/) 
 
 
 
