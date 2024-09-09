@@ -49,26 +49,11 @@ Been loving developing ever since.
 
 ### 🍳 What's cooking?
 
-Delving into Rails <img src="https://skillicons.dev/icons?i=rails" width="20px" height="20px"/> for some side project ideas I've been having lately!
+I used to delve into Rails, but now I'm playing around with NextJS for 2 web app. Let's see how I am faring with NextJS.
 
 ### 🤔 Let's collaborate?
 
 Like to do open-source project? Let's discuss to see some possible project we can work on!
-
-<!--
-**Xavier-IV/xavier-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=Xavier-IV&show_icons=true&theme=transparent)
 
