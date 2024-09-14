@@ -62,11 +62,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     16 hrs 47 mins  ████████████████▓░░░░░░░░   67.20 %
-SQL            1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Dart           1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-sh             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Markdown       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript     14 hrs 20 mins  ████████████████▒░░░░░░░░   65.75 %
+SQL            2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Dart           1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+sh             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+YAML           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
