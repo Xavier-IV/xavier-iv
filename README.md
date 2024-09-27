@@ -62,10 +62,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        20 mins         ███████████████████████░░   91.55 %
-Java Properties   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Other             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Dart              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript        20 mins         ████████████▓░░░░░░░░░░░░   50.52 %
+Dart              16 mins         ██████████▓░░░░░░░░░░░░░░   42.18 %
+Java Properties   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
