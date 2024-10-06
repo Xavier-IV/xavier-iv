@@ -32,6 +32,7 @@ Current Employment - IU Internationale Hochschule, Germany
 | Mini SEO (Angular)        | [Vercel](https://mini-seo.vercel.app/)                      | [Github](https://github.com/Xavier-IV/mini-seo)                           |
 | Rapid to MVP | | [Github](https://github.com/Xavier-IV/rapid-to-mvp) |
 | Lagged to MVP | | [Github](https://github.com/Xavier-IV/lagged-to-mvp) |
+| Homelab.day | [Website](https://homelab.day/) | [Github](https://github.com/Xavier-IV/homelab.day) |
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
