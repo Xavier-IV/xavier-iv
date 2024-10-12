@@ -63,11 +63,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           7 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-TypeScript     7 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.33 %
-markdown.mdx   4 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-Docker         2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Ruby           1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TypeScript     7 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.35 %
+markdown.mdx   5 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+YAML           2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Docker         1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Other          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
