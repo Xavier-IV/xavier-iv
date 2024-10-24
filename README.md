@@ -64,11 +64,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        8 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Dart              4 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-YAML              2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-SQL               2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Docker            1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+TypeScript        10 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.63 %
+Dart              4 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+YAML              3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+JSON              2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+SQL               2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
 ```
 
 <!--END_SECTION:waka-->
