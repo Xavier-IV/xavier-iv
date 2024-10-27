@@ -34,6 +34,7 @@ Current Employment - IU Internationale Hochschule, Germany
 | Lagged to MVP | | [Github](https://github.com/Xavier-IV/lagged-to-mvp) |
 | Homelab.day | [Website](https://homelab.day/) | [Github](https://github.com/Xavier-IV/homelab.day) |
 | CariTadika.my | [Website](https://caritadika.my/) | [Github](https://github.com/Xavier-IV/caritadika.my) |
+| Pinned | [Website](https://github.com/Xavier-IV/dev.zafranudin.pinned) | [Github](https://github.com/Xavier-IV/dev.zafranudin.pinned) |
 
 #### ✨ Public Contributions
 _I'm also actively contributing to other open-source project, help them out too!_
