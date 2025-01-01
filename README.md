@@ -67,11 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-C#          23 hrs 26 mins  ███████████████████████▓░   95.17 %
-Bash        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Other       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-XML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C#          26 hrs 17 mins  ████████████████████████░   95.46 %
+Bash        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+XML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+HLSL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
