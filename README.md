@@ -62,7 +62,7 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 
 ![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=Xavier-IV&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats-x6s6.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,c++)
+![Top Langs](https://github-readme-stats-x6s6.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=transparent&hide=html,css,hcl,dart,scss,shell,cmake,mdx,gdscript,astro,javascript,PLpgSQL,blade,java,swift,ejs,c)
 
 <!--START_SECTION:waka-->
 
