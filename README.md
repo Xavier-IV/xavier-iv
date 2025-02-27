@@ -67,7 +67,8 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   20 mins         █████████████████████████   100.00 %
+YAML         20 mins         ██████████████████████▓░░   90.33 %
+TypeScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
 ```
 
 <!--END_SECTION:waka-->
