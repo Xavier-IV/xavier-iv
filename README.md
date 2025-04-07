@@ -67,7 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   45 mins         ███████████████████████▓░   94.42 %
+SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Smalltalk    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
