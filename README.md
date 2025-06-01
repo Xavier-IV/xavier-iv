@@ -67,7 +67,9 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   10 mins         ███████████░░░░░░░░░░░░░░   43.92 %
+Other    8 mins          ████████▒░░░░░░░░░░░░░░░░   33.74 %
+Ruby     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
 ```
 
 <!--END_SECTION:waka-->
