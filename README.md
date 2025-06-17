@@ -67,7 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other       24 mins         ██████████████████▒░░░░░░   73.93 %
+Lua         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+Bash        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+gitignore   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
