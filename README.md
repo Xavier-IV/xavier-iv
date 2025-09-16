@@ -67,8 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-JSON        3 mins          ███████████████████████▓░   94.62 %
-sshconfig   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+YAML         52 mins         ██████████▓░░░░░░░░░░░░░░   42.44 %
+Other        27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Go           24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
