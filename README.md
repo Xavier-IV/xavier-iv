@@ -67,11 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         52 mins         ██████████▓░░░░░░░░░░░░░░   42.44 %
-Other        27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-Go           24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML         52 mins         ███████████░░░░░░░░░░░░░░   43.87 %
+Other        27 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Go           24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
