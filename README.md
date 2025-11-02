@@ -67,11 +67,7 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 56 mins    ██████████▒░░░░░░░░░░░░░░   41.24 %
-YAML         55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-Other        34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Bash         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-JSON         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Other   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
