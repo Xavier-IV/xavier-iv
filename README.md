@@ -67,11 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.66 %
-CSV          2 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-Python       1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Bash         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Other        45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+CSV          2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 %
+TypeScript   2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+Python       1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Bash         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Other        45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
 ```
 
 <!--END_SECTION:waka-->
