@@ -67,11 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   35 mins         ████████████████▒░░░░░░░░   65.66 %
-PHP          10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+TypeScript   34 mins         █████████████████████▒░░░   85.48 %
+JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
