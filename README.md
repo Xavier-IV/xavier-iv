@@ -67,11 +67,11 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-HCL          1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Markdown     40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Terraform    40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Other        29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+HCL          1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Terraform    42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Markdown     36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Other        29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+CSS          26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 ```
 
 <!--END_SECTION:waka-->
