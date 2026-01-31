@@ -67,8 +67,8 @@ Like to do open-source project? Let's discuss to see some possible project we ca
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       10 mins         ███████████████████░░░░░░   76.54 %
-Markdown   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Bash       10 mins         ███████████████████████▒░   93.18 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 ```
 
 <!--END_SECTION:waka-->
