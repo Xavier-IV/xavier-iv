@@ -11,7 +11,7 @@ Currently at **IU Internationale Hochschule**
 
 ---
 
-#### Free Courses
+<h4 align="center">Free Courses</h4>
 
 | Course | Description |
 |--------|-------------|
@@ -21,7 +21,7 @@ Currently at **IU Internationale Hochschule**
 
 ---
 
-#### What I Build
+<h4 align="center">What I Build</h4>
 
 | Project | Description |
 |---------|-------------|
@@ -32,13 +32,13 @@ Currently at **IU Internationale Hochschule**
 | [homelab.day](https://homelab.day) | Setup your homelab within a day |
 | [caritadika.my](https://caritadika.my) | Find kindergartens in Malaysia |
 
-#### Open Source Contributions
+<h4 align="center">Open Source Contributions</h4>
 
 - [CariSurau.com](https://github.com/farhanhelmy/ratemysurau) - Prayer room finder
 
 ---
 
-#### Let's Connect
+<h4 align="center">Let's Connect</h4>
 
 Open to collaborate on interesting projects or chat about tech.
 
