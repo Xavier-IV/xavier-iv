@@ -17,7 +17,7 @@
   <a href="https://zafranudin.my/links"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
 <h4 align="center">Tech Stack</h4>
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/RubyMine-000000?style=for-the-badge&logo=rubymine&logoColor=white" alt="RubyMine">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
 <h4 align="center">What I'm Up To</h4>
 
@@ -53,7 +53,15 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
+
+<h4 align="center">GitHub Activity</h4>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xavier-IV&bg_color=0d1117&color=D97757&line=D97757&point=ffffff&area=true&area_color=D97757&hide_border=true" alt="Activity Graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
 <h4 align="center">Free Courses</h4>
 
@@ -77,7 +85,23 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
+
+<h4 align="center">GitHub Stats</h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavier-IV&show_icons=true&theme=dark&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier-IV&theme=dark&background=0d1117&ring=D97757&fire=D97757&currStreakLabel=D97757&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=dark&bg_color=0d1117&title_color=D97757&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
 <h4 align="center">What I Build</h4>
 
@@ -110,7 +134,7 @@
   🕌 <a href="https://github.com/farhanhelmy/ratemysurau"><strong>CariSurau.com</strong></a> - Prayer room finder
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
 <h4 align="center">Let's Connect</h4>
 
