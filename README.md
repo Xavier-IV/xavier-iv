@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Zaf+%F0%9F%91%8B;Vibe+Coding+Enthusiast;Building+Developer+Tools;Teaching+on+YouTube" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Zaf+%F0%9F%91%8B;Building+Software;Educating+Developers" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -108,14 +108,6 @@
 
 <p align="center">
   🕌 <a href="https://github.com/farhanhelmy/ratemysurau"><strong>CariSurau.com</strong></a> - Prayer room finder
-</p>
-
----
-
-<h4 align="center">GitHub Activity</h4>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier-IV&theme=transparent&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="GitHub Streak" />
 </p>
 
 ---
