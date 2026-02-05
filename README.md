@@ -1,4 +1,4 @@
-<h3 align="center">Hey, I'm Zafrin</h3>
+<h3 align="center">Hey, I'm Zaf</h3>
 
 <p align="center">Software engineer crafting web apps and developer tools. Malaysian based in Germany.</p>
 
