@@ -15,6 +15,15 @@
   <img src="https://skillicons.dev/icons?i=ts,nextjs,rails,tailwind" alt="Tech Stack" />
 </p>
 
+<h4 align="center">AI-Powered Development</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white" alt="Antigravity">
+  <img src="https://img.shields.io/badge/RubyMine-000000?style=for-the-badge&logo=rubymine&logoColor=white" alt="RubyMine">
+</p>
+
 ---
 
 <h4 align="center">Free Courses</h4>
