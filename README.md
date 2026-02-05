@@ -87,22 +87,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
 
-<h4 align="center">GitHub Stats</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xavier-IV&show_icons=true&theme=dark&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier-IV&theme=dark&background=0d1117&ring=D97757&fire=D97757&currStreakLabel=D97757&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-IV&layout=compact&theme=dark&bg_color=0d1117&title_color=D97757&text_color=ffffff&hide_border=true" alt="Top Languages" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=D97757&height=8&section=header" width="100%" />
-
 <h4 align="center">What I Build</h4>
 
 <table align="center">
