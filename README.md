@@ -22,7 +22,7 @@
 <h4 align="center">Tech Stack</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,rails,tailwind,postgres,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,ruby,rails,tailwind,postgres,aws,netlify" alt="Tech Stack" />
 </p>
 
 <h4 align="center">AI-Powered Development</h4>
