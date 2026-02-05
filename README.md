@@ -11,6 +11,10 @@
   <a href="https://zafranudin.my/links"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,rails,tailwind" alt="Tech Stack" />
+</p>
+
 ---
 
 <h4 align="center">Free Courses</h4>
