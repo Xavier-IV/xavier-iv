@@ -1,13 +1,15 @@
-### Hey, I'm Zafrin
+<h3 align="center">Hey, I'm Zafrin</h3>
 
-Software engineer crafting web apps and developer tools. Malaysian based in Germany.
+<p align="center">Software engineer crafting web apps and developer tools. Malaysian based in Germany.</p>
 
-Currently at **IU Internationale Hochschule**
+<p align="center">Currently at <strong>IU Internationale Hochschule</strong></p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZafranudinZafrin)
-[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@zafranudin_z)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafranudin-zafrin/)
-[![Website](https://img.shields.io/badge/Website-zafranudin.my-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zafranudin.my)
+<p align="center">
+  <a href="https://www.youtube.com/@ZafranudinZafrin"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.threads.com/@zafranudin_z"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.linkedin.com/in/zafranudin-zafrin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://zafranudin.my"><img src="https://img.shields.io/badge/Website-zafranudin.my-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
 
 ---
 
